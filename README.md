@@ -1,1 +1,1 @@
-# Software-Engineering---Forex-data-directional-movements-using-LSTM
+# Software-Engineering-Forex-data-directional-movements-using-LSTM
